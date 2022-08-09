@@ -1,4 +1,4 @@
-# Real Estate Game Lite
+# Monopoly Lite
 A backend version of the boardgame classic using Python.
 <br></br>
 
