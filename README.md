@@ -5,7 +5,6 @@ A backend version of the boardgame classic using Python.
 ## Table of Contents
 - [Overview](#overview)
 - [Setup](#setup)
-- [Future Improvements](future-imprv)
 
 
 ## Overview
