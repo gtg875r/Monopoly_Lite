@@ -1,5 +1,5 @@
 # Monopoly Lite
-A backend version of the boardgame classic using Python.
+A terminal-based version of the boardgame classic using Python.
 <br></br>
 
 ## Table of Contents
